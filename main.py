@@ -8,8 +8,8 @@ if __name__ == "__main__":
     spark = get_spark_session()
     
     run_bronze(spark)
-    run_silver(spark)
-    run_gold(spark)
+    # run_silver(spark)
+    # run_gold(spark)
     
     print("Pipeline Execution Finished Successfully!")
     spark.stop()
