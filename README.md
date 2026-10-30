@@ -7,7 +7,7 @@ This project processes millions of New York City taxi trip records, transforms r
 👉 **[Visit Dashboard](https://dbc-abbc63ca-322f.cloud.databricks.com/dashboardsv3/01f1b76596a912d38f2d9ab07f23626c/published?o=7474652364655475)**
 
 <p align="center">
-  <img src="images/banner3.jpg" width="700"  alt="Demo Image" />
+  <img src="images/banner3.jpg" width="800"  alt="Demo Image" />
 </p>
 
 ---
