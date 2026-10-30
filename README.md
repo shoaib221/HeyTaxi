@@ -1,4 +1,4 @@
-# 🚖 NYC Taxi Analytics Platform
+# 🚖 Hey Taxi
 
 A modern end-to-end **Data Engineering Project** built using **Databricks, Apache Spark, Delta Lake, and Power BI** following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
